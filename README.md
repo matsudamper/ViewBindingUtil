@@ -1,6 +1,9 @@
 # ViewBindingUtil
 [![](https://jitpack.io/v/matsudamper/ViewBindingUtil.svg)](https://jitpack.io/#matsudamper/ViewBindingUtil)
 
+This is the DataBindingUtil function created for ViewBinding.
+https://developer.android.com/reference/android/databinding/DataBindingUtil
+
 # Usage
 ## gradle
 ```groovy
